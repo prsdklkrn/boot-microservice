@@ -1,4 +1,4 @@
-package com.spt.service;
+package com.ppk.service;
 
 import java.util.HashMap;
 import java.util.Map;
