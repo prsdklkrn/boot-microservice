@@ -1,4 +1,4 @@
-package com.spt.config;
+package com.ppk.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Profile;

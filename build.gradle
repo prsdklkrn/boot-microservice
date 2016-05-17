@@ -37,7 +37,7 @@ dependencies {
 	
 	compile(group: 'com.mangofactory', name: 'swagger-springmvc', version: '1.0.2')
 	compile(group: 'com.google.guava', name: 'guava', version: '18.0')
-	//compile project(':ribbon-consul-client')
+	compile project(':ribbon-consul-client')
 	
 	testCompile("org.springframework.boot:spring-boot-starter-test")
 }
